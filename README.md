@@ -21,4 +21,23 @@ This project demonstrates how to manage global state using React Context and per
 - Tailwind CSS
 - LocalStorage
 
-## Project Structure
+
+## Run the Project Locally
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the repository
+
+git clone https://github.com/santosh312-dev/react-todo-app.git
+
+### 2. Navigate into the project folder
+
+cd react-todo-app
+
+### 3. Install dependencies
+
+npm install
+
+### 4. Start the development server
+
+npm run dev
